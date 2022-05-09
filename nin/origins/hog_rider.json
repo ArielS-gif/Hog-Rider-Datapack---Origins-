@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"nin:fast",
+		"nin:hearts",
+		"nin:strengh",
+		"nin:speed",
+		"nin:power",
+		"nin:second_power"
+	],	
+	"icon": "minecraft:saddle",
+	"order": 10,
+	"impact": 3,
+	"name": "Hog Rider",
+	"description": "HOG RIDER!!!!!"
+}
