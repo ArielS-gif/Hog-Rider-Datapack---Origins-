@@ -1,0 +1,18 @@
+{
+	"type": "origins:action_over_time",
+	"entity_action": 
+	{
+		"type": "origins:apply_effect",
+		"effect": 
+		{
+        "effect": "minecraft:speed",
+        "amplifier": -0.5,
+		"show_particles": false,
+		"show_icon": false
+		}
+
+	},
+	"interval": 20,
+	"name": "Gotta Go Faster!",
+	"description": "In addition to the Second passive, you are also getting more Speed!"
+}

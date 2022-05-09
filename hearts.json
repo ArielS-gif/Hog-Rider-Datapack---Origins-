@@ -1,0 +1,12 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.max_health",
+    "value": -5.0,
+    "operation": "addition"
+  },
+  "hidden": false,
+  "name": "Less HP",
+  "description": "You lose 2 hearts, What a fucking noob.",
+  "tick_rate": 4
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Warthog",
+    "description": "i like boys",
+    "type": "origins:active_self",
+    "cooldown": 200,
+    "key":
+    {
+        "key": "key.origins.primary_active",
+        "continuous": false
+    },
+    "hud_render":
+    {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+        "bar_index": 13
+    },
+    "entity_action":
+    {
+    "type": "origins:execute_command",
+    "command": "summon pig ~ ~1 ~ {Saddle:1,ActiveEffects:[{Id:1,Amplifier:69,Duration:999999,ShowParticles:0b}]}"
+		}
+}
